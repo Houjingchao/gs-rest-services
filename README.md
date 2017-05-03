@@ -1,5 +1,5 @@
 # gs-rest-services
-simple rest BY **Little M**
+simple rest BY   **Little M**
 ***
 
 mvn clean package  
